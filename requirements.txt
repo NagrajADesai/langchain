@@ -21,3 +21,7 @@ python-dotenv
 # ml
 numpy
 scikit-learn
+pydantic
+
+# ui
+streamlit
