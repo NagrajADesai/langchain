@@ -1,6 +1,7 @@
 # langchain core
 langchain
 langchain-core
+langchain-community
 
 # openAI integration
 langchain-openai 
@@ -28,3 +29,7 @@ streamlit
 
 # graph
 grandalf
+
+# document loaders
+pypdf
+beautifulsoup4

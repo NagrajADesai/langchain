@@ -1,0 +1,5 @@
+Install NVIDIA drivers inside the guest
+
+Boot the guest (with the GPU attached) and install the NVIDIA driver / CUDA stack you previously downloaded on the offline workstation. Use the driver package appropriate for the H200 and the guest OS version.
+
+If you intend to use vGPU / mediated devices, you must use NVIDIA vGPU software (and license); the vGPU setup is different from full PCI passthrough and requires vendor/NVIDIA guidance
